@@ -5,7 +5,6 @@
   border-top:4px solid white;
   border-radius:50%;
 }
-
 #html-spinner, #svg-spinner{
   -webkit-transition-property: -webkit-transform;
   -webkit-transition-duration: 1.2s;
